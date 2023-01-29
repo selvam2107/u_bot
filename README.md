@@ -1,4 +1,4 @@
 # u_bot
 
 #hit
-[git pages](test.txt)
+[git pages](src/test.txt)
